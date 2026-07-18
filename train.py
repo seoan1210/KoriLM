@@ -618,7 +618,7 @@ if __name__=="__main__":
 사용법:
 
 학습:
-python KoriLM.py train
+python train.py train
 
 """
         )
